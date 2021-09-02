@@ -1,4 +1,4 @@
-# Geographic Data Analysis
+# Geographic Data Analysis 🌎
 
 A paid data analysis project I completed on Upwork. I did this as part of a long-term tutoring project. I lead the client through this data analysis and used it to teach him how to use pandas, numpy, matplotlib and seaborn among other libraries. 
 
