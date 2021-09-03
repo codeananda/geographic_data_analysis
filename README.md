@@ -1,12 +1,12 @@
 # Geographic Data Analysis 🌎
 
-A paid data analysis project I completed on Upwork. I did this as part of a long-term tutoring project. I lead the client through this data analysis and used it to teach him how to use pandas, numpy, matplotlib and seaborn among other libraries. 
+A paid data analysis project I completed on Upwork. It was a long-term tutoring project where I taught the client intermediate python data analysis by showing them what to do. We used eseential libraries such as pandas, numpy, matplotlib and seaborn among others. 
 
 ![tasmax_max_temp in South-Central Asia](https://user-images.githubusercontent.com/51246969/131851657-28af39fa-08dd-4451-a2ba-20fb84103286.png)
 
 *An example plot created for the final deliverable. I would have preferred more modern styling but it was for scientific publication.*
 
-It was a two-part project that consisted of weekly calls and lead to the following ⭐⭐⭐⭐⭐ reviews:
+It was a two-part project that consisted of weekly, live-coding calls and lead to the following ⭐⭐⭐⭐⭐ reviews:
 
 <img width="651" alt="Screenshot 2021-09-02 at 14 16 12" src="https://user-images.githubusercontent.com/51246969/131841883-3aeb5608-bcb3-477a-865b-3493eb33ef05.png">
 
