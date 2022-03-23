@@ -22,14 +22,6 @@ We have temperature data for every 50 km^2 cell on the Earth's surface for the l
 
 Analyse how the number and intensity of heatwaves is expected to change in the next 100 years. Compare and contrast the predictions made by each of the laboratories. 
 
-# This Repo is a Work-in-Progress 🏗
-
-I finished this project in August 2020 and have been kept busy with other projects since then. Now, I am in the process of tidying everything up so it can be presented to the world in a nice manner. You are one of the lucky souls who gets to see the repo in its raw form. But this means that not everything is as clean or orderly as it should be.
-
-However, I hope it gives you an idea of how I approached this project and demonstrates my python data analysis skills.
-
-Below are a list of notebooks that I think demonstrate my abilities at data analysis and plotting.
-
 # Noteable Notebooks 📕
 
 * Check out [`4_heatwaves`](https://github.com/theadammurphy/geographic_data_analysis/tree/main/4_heatwaves) to see how I created 300+ pdfs of plots by each cell.
@@ -61,3 +53,7 @@ I used Python and the following libraries:
 * Seaborn
 * Dask
 * Xarray
+
+# This Repo is a Work-in-Progress 🏗
+
+I finished this project in August 2020 and have been kept busy with other projects since then. Now, I am in the process of tidying everything up so it can be presented to the world in a nice manner. You are one of the lucky souls who gets to see the repo in its raw form. But this means that not everything is as clean or orderly as it should be.
