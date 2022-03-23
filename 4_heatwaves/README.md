@@ -10,4 +10,4 @@ Once my client re-did thier data collection, we were able to create the [`final_
 
 (-71.75, -35.75).pdf
 
-https://docs.google.com/viewer?url=https://raw.githubusercontent.com/codeananda/geographic_data_analysis/blob/main/4_heatwaves/(-71.25%2C%2010.25).pdf
+https://docs.google.com/viewer?url=https://github.com/codeananda/geographic_data_analysis/blob/3352d579489334bcb531a7bf35e3cd1be97ac847/4_heatwaves/(-71.25,%2010.25).pdf
