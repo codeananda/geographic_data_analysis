@@ -8,6 +8,8 @@ You'll note that the plots are messy and have gaps. Thanks to this analysis, we 
 
 Once my client re-did thier data collection, we were able to create the [`final_plots`](https://github.com/theadammurphy/geographic_data_analysis/tree/main/final_plots).
 
+1
+<img src="https://user-images.githubusercontent.com/51246969/159709517-b2e65654-f389-48ea-b21b-c1022435ab07.jpg" alt="(-71 25, 10 25)">
 
 ![(-71 25, 10 25)](https://user-images.githubusercontent.com/51246969/159709517-b2e65654-f389-48ea-b21b-c1022435ab07.jpg)
 
