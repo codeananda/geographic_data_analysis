@@ -8,12 +8,10 @@ You'll note that the plots are messy and have gaps. Thanks to this analysis, we 
 
 Once my client re-did thier data collection, we were able to create the [`final_plots`](https://github.com/theadammurphy/geographic_data_analysis/tree/main/final_plots).
 
-1
 <img src="https://user-images.githubusercontent.com/51246969/159709517-b2e65654-f389-48ea-b21b-c1022435ab07.jpg" alt="(-71 25, 10 25)" style="width: 50%; height: 50%"/>
 
-![(-71 25, 10 25)](https://user-images.githubusercontent.com/51246969/159709517-b2e65654-f389-48ea-b21b-c1022435ab07.jpg)
+<img src="https://user-images.githubusercontent.com/51246969/159709567-ce1f4ed0-5254-4866-adb6-ebe2f175f50f.jpg" alt="(-72 75, 10 25)" style="width: 50%; height: 50%"/>
 
-![(-71 75, -35 75)](https://user-images.githubusercontent.com/51246969/159709544-6b7e779a-f3e6-47ba-b7ac-2567754151a0.jpg)
+<img src="https://user-images.githubusercontent.com/51246969/159709544-6b7e779a-f3e6-47ba-b7ac-2567754151a0.jpg" alt="(-71 75, -35 75)" style="width: 50%; height: 50%"/>
 
-![(-72 75, 10 25)](https://user-images.githubusercontent.com/51246969/159709567-ce1f4ed0-5254-4866-adb6-ebe2f175f50f.jpg)
 
