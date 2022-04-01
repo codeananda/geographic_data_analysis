@@ -1,5 +1,7 @@
 # Geographic Data Analysis 🌎
 
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 A paid data analysis project I completed on Upwork. It was a long-term tutoring project where I taught the client intermediate python data analysis by showing them what to do. We used eseential libraries such as pandas, numpy, matplotlib and seaborn among others. 
 
 ![tasmax_max_temp in South-Central Asia](https://user-images.githubusercontent.com/51246969/131851657-28af39fa-08dd-4451-a2ba-20fb84103286.png)
