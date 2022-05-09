@@ -2,13 +2,13 @@
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-A long-term data analysis and tutoring project completed on Upwork. We worked with 100+ GBs of geospatial data - surface temperature for every 50 km square on the Earth's surface for the last 100 years and several predictions for the next 100 years. We used the Python data science stack throughout (dask, xarray, pandas, numpy, matplotlib, and seaborn among others). 
+A long-term data analysis project completed on Upwork. We worked with 100+ GBs of geospatial data - surface temperature for every 50 km square on the Earth's surface for the last 100 years and several predictions for the next 100 years. We used the Python data science stack throughout (dask, xarray, pandas, numpy, matplotlib, and seaborn among others). 
 
 ![tasmax_max_temp in South-Central Asia](https://user-images.githubusercontent.com/51246969/131851657-28af39fa-08dd-4451-a2ba-20fb84103286.png)
 
 *An example plot created for the final deliverable - a journal article for scientific publication.*
 
-It was a two-part project that consisted of weekly, live-coding calls and lead to the following ⭐⭐⭐⭐⭐ reviews:
+It was a two-part project that consisted of weekly calls and lead to the following ⭐⭐⭐⭐⭐ reviews:
 
 <img width="651" alt="Screenshot 2021-09-02 at 14 16 12" src="https://user-images.githubusercontent.com/51246969/131841883-3aeb5608-bcb3-477a-865b-3493eb33ef05.png">
 
