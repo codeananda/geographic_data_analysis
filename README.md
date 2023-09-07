@@ -14,13 +14,13 @@ It was a two-part project that consisted of weekly calls and lead to the followi
 
 <img width="662" alt="Screenshot 2021-09-02 at 14 16 03" src="https://user-images.githubusercontent.com/51246969/131841898-88233c62-55ef-41b3-851a-180383704d27.png">
 
-# Define the Problem
+# 🤔 The Problem
 
 **THE DATASET**
 
 We have temperature data for every 50 km^2 cell on the Earth's surface for the last 100 years and predictions for those cells for the next 100 years. The predictions were generated independently by four different laboratories. 
 
-**THE PROBLEM TO INVESTIGATE**
+**THE GOAL**
 
 Analyse how the number and intensity of heatwaves is expected to change in the next 100 years. Compare and contrast the predictions made by each of the laboratories. 
 
