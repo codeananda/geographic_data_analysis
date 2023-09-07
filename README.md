@@ -1,4 +1,4 @@
-# Geographic Data Analysis 🌎
+# 🌎 Geographic Data Analysis
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
@@ -24,7 +24,7 @@ We have temperature data for every 50 km^2 cell on the Earth's surface for the l
 
 Analyse how the number and intensity of heatwaves is expected to change in the next 100 years. Compare and contrast the predictions made by each of the laboratories. 
 
-# Noteable Notebooks 📕
+# 📕 Noteable Notebooks
 
 * Check out [`4_heatwaves`](https://github.com/theadammurphy/geographic_data_analysis/tree/main/4_heatwaves) to see how I created 300+ pdfs of plots corresponding to each cell.
 
@@ -43,6 +43,6 @@ The dataset consisted of several excel files containing the min/max temperature 
 * *Tasmin* - Temperature at Surface (TAS) minimum value for that day. The minimum temperature recorded on that day for that cell.
 * *Tasmax* - Temperature at Surface (TAS) maximum value for that day. The maximum temperature recorded on that day for that cell.
 
-# This Repo is a Work-in-Progress 🏗
+# 🏗 This Repo is a Work-in-Progress
 
 I finished this project in August 2020 and have been kept busy with other projects since then. I am still in the process of getting this into a publication-ready state but I hope this gives you a good idea of my work.
