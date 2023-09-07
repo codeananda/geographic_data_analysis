@@ -34,7 +34,7 @@ Analyse how the number and intensity of heatwaves is expected to change in the n
 
 * The [historical_analysis_tasmax.ipynb](https://github.com/theadammurphy/geographic_data_analysis/blob/main/3_historical/historical_analysis_tasmax.ipynb) notebook explores six different methods to define a heatwave and plots their differences for a sample of cells.
 
-# Terminology
+# 📜 Terminology
 
 The dataset consisted of several excel files containing the min/max temperature for every 50 km^2 (cell) of the Earth for the last 100 years. We combined this with four similar datasets containing predictions of the min/max temperature for every 50 km^2 cell of the Earth for the next 100 years. We restricted our analysis just to points on land.
 
